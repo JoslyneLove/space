@@ -85,7 +85,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Mercurio es el planeta mas cercano al Sol");
               localStorage.setItem("fact2", "Temperatura promedio, 427 grados centigrados durante el dia, -179 grados centigrados durante la noche");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 88 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 3474 kilometro");
+              localStorage.setItem("fact4", "Diametro, 3474 kilometros");
               window.open("explore.html", "_self");
               break;
             case "ven":
@@ -94,7 +94,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Venus es el tercer objeto mas brillante en el cielo de la Tierra despues del Sol y la Luna");
               localStorage.setItem("fact2", "Temperatura promedio, 471 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 225 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 12104 kilometro");
+              localStorage.setItem("fact4", "Diametro, 12104 kilometros");
               window.open("explore.html", "_self");
               break;
             case "ear":
@@ -103,7 +103,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, La Tierra es el planeta mas denso del sistema solar con 5,513 kg/m3");
               localStorage.setItem("fact2", "Temperatura promedio, 16 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 365 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 12756 kilometro");
+              localStorage.setItem("fact4", "Diametro, 12756 kilometros");
               window.open("explore.html", "_self");
               break;
             case "mar":
@@ -112,7 +112,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Marte tiene la montana mas alta conocida en el sistema solar en 21000 metros de altura");
               localStorage.setItem("fact2", "Temperatura promedio, -29 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 687 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 6779 kilometro");
+              localStorage.setItem("fact4", "Diametro, 6779 kilometros");
               window.open("explore.html", "_self");
               break;
             case "jup":
@@ -121,7 +121,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Jupiter tiene el dia mas corto de los planetas del sistema solar, girando una vez cada 9 horas y 55 minutos");
               localStorage.setItem("fact2", "Temperatura promedio, -108 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 4,333 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 142984 kilometro");
+              localStorage.setItem("fact4", "Diametro, 142984 kilometros");
               window.open("explore.html", "_self");
               break;
             case "sat":
@@ -130,7 +130,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Saturno tiene los vientos mas rapidos de cualquier otro planeta del sistema solar a 1770 kilometros por hora");
               localStorage.setItem("fact2", "Temperatura promedio, -139 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 10,759 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 120535 kilometro");
+              localStorage.setItem("fact4", "Diametro, 120535 kilometros");
               window.open("explore.html", "_self");
               break;
             case "ura":
@@ -139,7 +139,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Urano tiene 13 anillos conocidos, aunque estos anillos son bastante estrechos, por lo que son menos visibles que el anillo de Saturno");
               localStorage.setItem("fact2", "Temperatura promedio, -196 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 30,687 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 50723 kilometro");
+              localStorage.setItem("fact4", "Diametro, 50723 kilometros");
               window.open("explore.html", "_self");
               break;
             case "nep":
@@ -148,7 +148,7 @@ function gotoPlanet(e) {
               localStorage.setItem("fact1", "Dato interesante, Solo una nave espacial ha sobrevolado Neptuno, la Voyager 2 en 1989");
               localStorage.setItem("fact2", "Temperatura promedio, -202 grados centigrados");
               localStorage.setItem("fact3", "Duracion del ano (dias terrestres para viajar alrededor del sol), 60,190 dias terrestres");
-              localStorage.setItem("fact4", "Diametro, 49243 kilometro");
+              localStorage.setItem("fact4", "Diametro, 49243 kilometros");
               window.open("explore.html", "_self");
               break;
             case "":
