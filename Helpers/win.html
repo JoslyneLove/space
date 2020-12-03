@@ -1,0 +1,28 @@
+<!---
+This will be the winning landing page
+--->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome Captain!</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="win.css" />
+
+</head>
+
+<body>
+
+    <header>
+        <h1 id="welcome">Felicidades</h1>
+        <p id="final">Recogiste todos los datos</p>
+    </header>
+
+    <input type="button" id="learn" value="M&aacute;s informaci&oacute;n sobre la exploraci&oacute;n espacial" onclick="more()">
+
+    <script>
+        function more() {
+            window.open("https://www.nasa.gov/audience/forstudents/nasaandyou/home/index.html", "_new");
+        }
+    </script>
+</body></html>

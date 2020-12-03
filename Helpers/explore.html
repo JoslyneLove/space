@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang=en-es>
+  <head>
+    <title>Welcome Captian</title>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="Planets, Exploration">
+	<meta name="description" content="Game for children to learn about the solar system">
+	<meta name="author" content="Joslyne Lovelace">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="explore.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <!-- Load picture in canvas on load -->
+  <body>
+    <h1 id="find">Busque y haga clic en las cuatro herramientas del planeta para recopilar datos</h1> 
+	<!-- Element below display score -->
+	<p id="score">Puntuaci&oacute;n</p>
+    <input type="button" id="back" value="De vuelta al sistema solar" onclick="goBack()">
+    <canvas id="space" width="1500" height="650"></canvas>
+	<script src="./explore.js"></script>
+  </body>
+</html>
